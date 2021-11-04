@@ -15,7 +15,7 @@
             </div>
         </header>  
     <br>
-    <form method="POST" action="inicio.php">
+    <form method="POST" action="index.php">
     <div class="cuerpo">
         <div class="buscar">
             <input type="text" class="form-control" name="nombre-empleo" id="nombre-empleo" placeholder="Ingrese el nombre del empleo" required>
